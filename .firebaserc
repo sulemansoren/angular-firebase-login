@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "abide-assignment": {
+      "hosting": {
+        "loginapp": [
+          "abide-assignment"
+        ]
+      }
+    }
+  }
+}
